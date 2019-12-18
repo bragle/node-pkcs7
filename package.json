@@ -1,12 +1,12 @@
 {
   "name": "node-pkcs7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-	"pub:patch": "npm version patch && npm publish",
-	"pub:minor": "npm version minor && npm publish",
-	"pub:major": "npm version major && npm publish"
+    "pub:patch": "npm version patch && npm publish",
+    "pub:minor": "npm version minor && npm publish",
+    "pub:major": "npm version major && npm publish"
   },
   "repository": {
     "type": "git",
