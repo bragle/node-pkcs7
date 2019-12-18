@@ -1,0 +1,22 @@
+{
+  "name": "node-pkcs7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"pub:patch": "npm version patch && npm publish",
+	"pub:minor": "npm version minor && npm publish",
+	"pub:major": "npm version major && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bragle/node-pkcs7.git"
+  },
+  "keywords": [],
+  "author": "Leo Toneff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bragle/node-pkcs7/issues"
+  },
+  "homepage": "https://github.com/bragle/node-pkcs7#readme"
+}
