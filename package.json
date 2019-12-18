@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/bragle/node-pkcs7.git"
   },
-  "keywords": [],
+  "keywords": ["PKCS#7", "PKCS7", "Crypto", "Padding"],
   "author": "Leo Toneff",
   "license": "ISC",
   "bugs": {
