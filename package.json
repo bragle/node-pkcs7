@@ -1,6 +1,6 @@
 {
   "name": "node-pkcs7",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/bragle/node-pkcs7.git"
   },
-  "keywords": ["PKCS#7", "PKCS7", "Crypto", "Padding"],
+  "keywords": [
+    "PKCS#7",
+    "PKCS7",
+    "Crypto",
+    "Padding"
+  ],
   "author": "Leo Toneff",
   "license": "ISC",
   "bugs": {
